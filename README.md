@@ -13,8 +13,8 @@ con el control y organización de la información del inventario.
 
 ## Objetivo
 
-Desarrollar un sistema que permita organizar y controlar
-la información de los productos.
+Desarrollar un sistema para mejorar el control y organización
+del inventario.
 
 ## Tecnologías
 

@@ -29,6 +29,14 @@ la información de los productos.
 - CSS
 - JavaScript
 
+- ## Tecnologías
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
 ## Control de versiones
 
 El proyecto utiliza Git y GitHub para controlar los cambios,

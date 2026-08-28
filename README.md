@@ -5,7 +5,9 @@
 
 Proyecto orientado al desarrollo de un sistema para mejorar
 el registro, seguimiento y control de los productos.
+## Descripción del proyecto
 
+Sistema para la gestión y control del inventario.
 ## Objetivo
 
 Desarrollar un sistema para mejorar el control y organización

@@ -6,6 +6,11 @@
 Proyecto orientado al desarrollo de un sistema para mejorar
 el registro, seguimiento y control de los productos.
 
+## Objetivo
+
+Desarrollar un sistema para mejorar el control y organización
+del inventario.
+
 ## Problema
 
 El proyecto busca solucionar las dificultades relacionadas

@@ -41,3 +41,7 @@ la información de los productos.
 
 El proyecto utiliza Git y GitHub para controlar los cambios,
 mantener un historial y facilitar el trabajo colaborativo.
+## Modulo de inventario
+
+El sistema permitirá registrar, consultar,
+actualizar y controlar los productos.

@@ -18,11 +18,11 @@ del inventario.
 
 ## Tecnologías
 
-- Git
-- GitHub
 - HTML
 - CSS
 - JavaScript
+- Git
+- GitHub
 
 ## Control de versiones
 
